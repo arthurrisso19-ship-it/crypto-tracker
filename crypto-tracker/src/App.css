@@ -1,0 +1,26 @@
+input {
+  max-width: 210px;
+  font-size: 20px;
+  padding: 0;
+}
+button {
+  display: flex;
+  justify-content: center;
+  margin: 21px;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+background: linear-gradient(135deg, #0f172a 0%, #1e293b 50%, #030712 100%);
+
+
+
+}
+
+.form-container {
+  display: flex;
+  gap: 10px;
+}

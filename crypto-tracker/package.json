@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "rimraf node_modules/.cache/gh-pages && gh-pages -d dist"
+    "deploy": "rimraf node_modules/.cache/gh-pages && gh-pages -d dist -a"
     },
 
   "dependencies": {

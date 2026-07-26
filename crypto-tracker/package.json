@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.io",
+  "homepage": "https://arthurrisso19-ship-it.github.io/",
     "scripts": {
     "dev": "vite",
     "build": "vite build",
